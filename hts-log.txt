@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 08 Sep 2021 20:10:27 at https://preview.codeless.co/folie/portfolio-product-fullscreen/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://preview.codeless.co/folie/portfolio-product-fullscreen/ -O1 "C:\Kaiwal Redmi\mohit bhai Photography" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:10:42	Error: 	"Method Not Allowed" (405) at link https://preview.codeless.co/folie/portfolio-product-fullscreen/xmlrpc.php (from https://preview.codeless.co/folie/portfolio-product-fullscreen/)
+20:10:45	Error: 	"Not Found" (404) at link https://preview.codeless.co/folie/portfolio-product-fullscreen/wp-content/themes/folie/img/icon_top.png (from https://preview.codeless.co/folie/portfolio-product-fullscreen/wp-content/themes/folie/style.css?ver=4.9.18)
+20:10:45	Warning: 	Moved Permanently for https://preview.codeless.co/folie/portfolio-product-fullscreen/?p=148
+20:10:45	Warning: 	File has moved from https://preview.codeless.co/folie/portfolio-product-fullscreen/?p=148 to https://preview.codeless.co/folie/portfolio-product-fullscreen/?page_id=148
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 seconds : 42 links scanned, 38 files written (1289566 bytes overall) [871450 bytes received at 48413 bytes/sec], 591504 bytes transferred using HTTP compression in 29 files, ratio 22%, 8.6 requests per connection
+(2 errors, 2 warnings, 0 messages)
